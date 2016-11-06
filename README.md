@@ -1,5 +1,5 @@
 # exercism-lab
-My personal repository for solved "exercism" exercises.
+My personal repository for solved "exercism" exercises. The main purpose of this repository is to how off my skills in several programming languages
 
 ### Programming Languages and Status
 
